@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Chevalier</title>
+		
+		<!-- CSS -->
+		<link rel="stylesheet" href="resources/css/index.css" />
+		
+		<!-- JS APIs -->
+		<script type="text/javascript" src="resources/js/api/easeljs-0.7.1.min.js"></script>
+		<script type="text/javascript" src="resources/js/api/jquery-2.0.3.js"></script>
+		
+		<!-- JS CUSTOM -->
+		<script type="text/javascript" src="resources/js/custom/app.js"></script>
+		<script type="text/javascript" src="resources/js/custom/spriteSheets.js"></script>
+		<script type="text/javascript" src="resources/js/custom/stage.js"></script>
+		<script type="text/javascript" src="resources/js/custom/index.js"></script>
+	</head>
+	<body>
+		<canvas id="stage"></canvas>
+		
+		<div id="preparation-screen" class="hidden">
+			<h3>Choose where to defend and where to strike</h3>
+			<div>
+				<image id="red-image" src="resources/images/red_1.png" />
+				<image id="blue-image" src="resources/images/blue_3.png" />
+			</div>
+			<button id="go-button">Go!</button>
+		</div>
+		
+		<img id="shield" class="hidden" src="resources/images/escudo.png"/>
+		<img id="aim" class="hidden" src="resources/images/aim.png"/>
+	</body>
+</html>

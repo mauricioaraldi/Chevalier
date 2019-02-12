@@ -1,0 +1,86 @@
+
+=== CAVALO 1 ===
+
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Cavalheiro 1</title>
+  <path stroke="#000000" fill="#FF0000" stroke-width="5" d="m204.14,295.58701c5.569,-21.84702 155.498,-7.28201 162.78001,-8.13901c7.28299,-0.85699 47.54898,-26.13 53.11798,-29.129c5.569,-2.99899 52.26102,-16.278 54.83099,-0.85699c2.57001,15.42099 9.42401,45.836 1.285,50.97598c-8.13898,5.14001 -14.564,5.99701 -17.134,1.285c-2.57098,-4.71201 0.85602,-10.70898 -4.71198,-14.564c-5.569,-3.85599 -9.85303,-1.71399 -17.992,1.71301c-8.13901,3.427 -29.129,21.84698 -35.55502,37.69699c-6.42499,15.849 -7.70999,68.10999 -2.14099,71.966c5.56799,3.85501 -32.98499,10.28 -30.84299,0.42801c2.142,-9.85303 1.285,-59.11502 -2.99899,-52.68903c-4.28302,6.42502 -128.93901,-2.57098 -136.22101,-2.99899c-7.28201,-0.42801 -0.85701,52.26102 -2.57001,56.54501c-1.713,4.28299 -21.847,3.99799 -24.41699,0.57098l2.56999,-112.80399z" id="svg_2"/>
+  <path fill="#ffffff" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m287,386c2.33301,1 22.33301,6 31,0l19.5,-69l-9.5,-47c4,-29.66701 3.33301,-53.66701 3,-75c-0.33301,-21.33299 -4.66699,-38.66701 -12,-58l1,-48l-33,2l0,46c-0.66699,44.66701 -7.66699,92 -2,134c0.33301,20 24.41699,42 23,43.25l-21,71.75z" id="svg_3"/>
+  <path fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m288,132l16,11l15,-11" id="svg_10"/>
+  <line fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="312" y1="101" x2="313" y2="117" id="svg_11"/>
+  <line fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="304" y1="102" x2="305" y2="116" id="svg_13"/>
+  <line fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="297" y1="104" x2="297" y2="113" id="svg_14"/>
+  <path stroke="#000000" id="svg_1" d="m338,217l4,29c12.66666,-17.66667 -2.66666,-19.33333 -4,-29z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ffffff"/>
+  <path id="svg_4" d="m270,254l284,-79l-284,79z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+  <path fill="#ffffff" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m297,165l0,88l21,0c0,0 0,-88 -1,-92" id="svg_15" stroke="#000000"/>
+  <path id="svg_5" d="m343,144c11.33331,35.33333 16.66669,49.66667 1,91l-1,-91z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+  <path id="svg_6" d="m328,173c1,0 15,0 15,0c0,0 -15,0 -15,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+  <path id="svg_7" d="m331,195c0,0 12,0 12,0c0,0 -12,0 -12,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+ </g>
+</svg>
+
+
+=== CAVALO 2 ===
+
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Cavalheiro 1</title>
+  <path id="svg_2" d="m204.14,295.58701c5.569,-21.84702 155.498,-7.28201 162.78001,-8.13901c7.28299,-0.85699 47.54898,-26.13 53.11798,-29.129c5.569,-2.99899 52.26102,-16.278 54.83099,-0.85699c2.57001,15.42099 9.42401,45.836 1.285,50.97598c-8.13898,5.14001 -14.564,5.99701 -17.134,1.285c-2.57098,-4.71201 0.85602,-10.70898 -4.71198,-14.564c-5.569,-3.85599 -9.85303,-1.71399 -17.992,1.71301c-8.13901,3.427 -29.129,21.84698 -35.55502,37.69699c-6.42499,15.849 -17.70999,67.10999 -12.14099,70.966c-4.43201,3.85501 -12.98499,7.28 -28.84299,-1.57199c2.142,-9.85303 9.285,-56.11502 5.00101,-49.68903c-4.28302,6.42502 -128.93901,-2.57098 -136.22101,-2.99899c-7.28201,-0.42801 -11.85701,52.26102 -13.57001,56.54501c-15.713,4.28299 -21.847,-2.00201 -24.41699,-5.42902l13.56999,-106.80399l0,0z" stroke-width="5" fill="#FF0000" stroke="#000000"/>
+  <path id="svg_3" d="m282,396c2.33301,1 22.33301,6 31,0l19.5,-69l-9.5,-47c4,-29.66701 3.33301,-53.66701 3,-75c-0.33301,-21.33299 -4.66699,-38.66701 -12,-58l1,-48l-33,2l0,46c-0.66699,44.66701 -7.66699,92 -2,134c0.33301,20 24.41699,42 23,43.25l-21,71.75z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+  <path id="svg_10" d="m283,142l16,11l15,-11" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_11" y2="127" x2="308" y1="111" x1="307" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_13" y2="126" x2="300" y1="112" x1="299" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_14" y2="123" x2="292" y1="114" x1="292" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <path fill="#ffffff" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m333,227l4,29c12.66666,-17.66667 -2.66666,-19.33333 -4,-29z" id="svg_1" stroke="#000000"/>
+  <path fill="#ffffff" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m265,264l284,-79l-284,79z" id="svg_4"/>
+  <path stroke="#000000" id="svg_15" d="m292,175l0,88l21,0c0,0 0,-88 -1,-92" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ffffff"/>
+  <path fill="#ffffff" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m338,154c11.33331,35.33333 16.66669,49.66667 1,91l-1,-91z" id="svg_5"/>
+  <path fill="#ffffff" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m323,183c1,0 15,0 15,0c0,0 -15,0 -15,0z" id="svg_6"/>
+  <path fill="#ffffff" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m326,205c0,0 12,0 12,0c0,0 -12,0 -12,0z" id="svg_7"/>
+ </g>
+</svg>
+
+=== CAVALO 3 ===
+
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Cavalheiro 1</title>
+  <path stroke="#000000" fill="#FF0000" stroke-width="5" d="m204.14,295.58701c5.569,-21.84702 155.498,-7.28201 162.78001,-8.13901c7.28299,-0.85699 47.54898,-26.13 53.11798,-29.129c5.569,-2.99899 52.26102,-16.278 54.83099,-0.85699c2.57001,15.42099 9.42401,45.836 1.285,50.97598c-8.13898,5.14001 -14.56403,5.99701 -17.134,1.285c-2.57098,-4.71204 0.85602,-10.70898 -4.71198,-14.56403c-5.569,-3.85599 -9.85306,-1.71399 -17.992,1.71301c-8.13901,3.427 -29.129,21.84698 -35.55502,37.69702c-6.42499,15.849 2.29001,64.10999 7.85901,67.966c-4.43201,3.85501 -12.98499,11.28 -28.84299,2.42801c2.142,-9.85306 -10.715,-57.11502 -14.99899,-50.68906c-4.28302,6.42505 -128.93901,-2.57095 -136.22101,-2.99896c-7.28201,-0.42801 12.14299,48.26102 10.42998,52.54498c-15.713,4.28299 -22.847,0.99802 -25.41698,-2.42902l-9.43002,-105.80399l0,0l0.00002,0.00003z" id="svg_2"/>
+  <path fill="#ffffff" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m282,396c2.33301,1 22.33301,6 31,0l19.5,-69l-9.5,-47c4,-29.66701 3.33301,-53.66701 3,-75c-0.33301,-21.33299 -4.66699,-38.66701 -12,-58l1,-48l-33,2l0,46c-0.66699,44.66701 -7.66699,92 -2,134c0.33301,20 24.41699,42 23,43.25l-21,71.75z" id="svg_3"/>
+  <path fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m283,142l16,11l15,-11" id="svg_10"/>
+  <line fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="307" y1="111" x2="308" y2="127" id="svg_11"/>
+  <line fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="299" y1="112" x2="300" y2="126" id="svg_13"/>
+  <line fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="292" y1="114" x2="292" y2="123" id="svg_14"/>
+  <path stroke="#000000" id="svg_1" d="m333,227l4,29c12.66666,-17.66667 -2.66666,-19.33333 -4,-29z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ffffff"/>
+  <path id="svg_4" d="m265,264l284,-79l-284,79z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+  <path fill="#ffffff" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m292,175l0,88l21,0c0,0 0,-88 -1,-92" id="svg_15" stroke="#000000"/>
+  <path id="svg_5" d="m338,154c11.33331,35.33333 16.66669,49.66667 1,91l-1,-91z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+  <path id="svg_6" d="m323,183c1,0 15,0 15,0c0,0 -15,0 -15,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+  <path id="svg_7" d="m326,205c0,0 12,0 12,0c0,0 -12,0 -12,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+ </g>
+</svg>
+
+=== ESCUDO ===
+
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <circle id="svg_2" r="44.59821" cy="143" cx="378" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#00ff00"/>
+  <circle stroke="#000000" id="svg_1" r="30.41658" cy="144" cx="378" stroke-width="5" fill="#ff7f00"/>
+  <circle stroke="#000000" id="svg_3" r="13.67935" cy="144.5" cx="378.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ff0000"/>
+ </g>
+</svg>
+
+=== MIRA ===
+
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <circle stroke="#000000" id="svg_1" r="7.9222" cy="163.5" cx="202.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ff0000"/>
+ </g>
+</svg>
